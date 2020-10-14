@@ -3,7 +3,7 @@
 I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche technologies and finding insights of data.
 </p>
 
-<img align="right" src=src="https://github.com/saikumar716/saikumar716/readme.gif" />
+<img align="right" src=src="https://github.com/saikumar716/saikumar716/blob/master/readme.gif" />
 
 ## 🔧 Technical Profile Summary
 - Python, Scala, Java, SQL
