@@ -10,4 +10,4 @@
 -  Kibana Dashboard, Postman
 - Data migration testing, System testing, BDD Testing Framwork
 
-![Saikumar7s github stats](https://github-readme-stats.vercel.app/api?username=saikumar716&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Saikumar7s github stats](https://github-readme-stats.vercel.app/apitop-langs?username=saikumar716&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
