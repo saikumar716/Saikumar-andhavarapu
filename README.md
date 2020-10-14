@@ -4,6 +4,7 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 </p>
 
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
+
 ## 🔧 Technical Profile Summary
 - Python, Scala, Java, SQL
 - PostgreSQL, Oracle,Elastic search
