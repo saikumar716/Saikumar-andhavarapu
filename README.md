@@ -1,6 +1,6 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
-### Hi there 👋, I'm Sai.
+I'm Sai.
 </p>
 
 reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)
