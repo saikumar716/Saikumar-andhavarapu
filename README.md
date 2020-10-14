@@ -23,9 +23,8 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar716&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/saikumar716/saikumar716">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumar716&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar716&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sai's GitHub Stats" />
 </a>
-
 <a href="https://github.com/saikumar716/dataframe-examples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar716&repo=dataframe-examplest&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
