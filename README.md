@@ -1,9 +1,9 @@
-### Hi there 👋, reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)
+<h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-<a href="https://twitter.com/saicrystalhear"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/saikumar716"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+### Hi there 👋, I'm Sai.
 </p>
+
+reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)
 
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
 
@@ -17,3 +17,9 @@
 - Data migration testing, System testing, BDD Testing Framwork
 
 ![Saikumar7s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumar716&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<p align='center'>
+<a href="https://twitter.com/saicrystalhear"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/saikumar716"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
