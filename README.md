@@ -28,9 +28,6 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 <a href="https://github.com/saikumar716/dataframe-examples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar716&repo=dataframe-examplest&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/saikumar716/s3cleaner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saikumar716&repo=s3cleanert&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
 <p align='center'>
 <a href="https://twitter.com/saicrystalhear"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
