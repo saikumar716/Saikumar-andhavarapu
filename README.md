@@ -4,6 +4,7 @@ I'm Sai.
 </p>
 
 ### reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="15" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
 
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
 
