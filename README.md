@@ -3,17 +3,19 @@
 I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche technologies and finding insights of data.
 </p>
 
-<img align="right" src="https://github.com/saikumar716/saikumar716/blob/master/readme.gif" />
-
+<img align="right" src="https://github.com/saikumar716/saikumar716/blob/master/readme.gif"/>
+<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 ## 🔧 Technical Profile Summary
-- Python, Scala, Java, SQL
-- PostgreSQL, Oracle,Elastic search
-- Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
-- AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
-- Jupyter notebook, Sagemaker Notebook
--  Kibana Dashboard, Postman
-- Data migration testing, System testing, BDD Testing Framwork
-
+* Python, Scala, Java, SQL
+* PostgreSQL, Oracle,Elastic search
+* Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
+* AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
+* Jupyter notebook, Sagemaker Notebook
+*  Kibana Dashboard, Postman
+* Data migration testing, System testing, BDD Testing Framwork
+* 💻 I’m currently working on cloud migration project in healthcare domain
+* 🌱 I’m currently learning python for data engineering and many cloud services in aws
+* ⚡ Special Talent: Beat Boxing
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
@@ -33,9 +35,6 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 <a href="https://github.com/saikumar716/saikumar716">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumar716&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sai's GitHub Stats" />
 </a>
-
-💻 I’m currently working on cloud migration project in healthcare domain
-🌱 I’m currently learning python for data engineering and many cloud services in aws
  
 ##  Reach me on                                            
 <p align='center'>
@@ -44,12 +43,3 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 <a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Here are some ideas to get you started:
-
- 
-* 👯 I’m looking to collaborate on ...
-* 🤔 I’m looking for help with ...
-* 💬 Ask me about ...
-* 📫 How to reach me: ...
-* 😄 Pronouns: ...
-* ⚡ Fun fact: ...
