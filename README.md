@@ -3,7 +3,7 @@
 I'm Sai.
 </p>
 
-### reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+### reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
 
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
 
