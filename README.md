@@ -3,7 +3,7 @@
 I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche technologies and finding insights of data.
 </p>
 
-<img align="right" src=src="https://github.com/saikumar716/saikumar716/blob/master/readme.gif" />
+<img align="right" src="https://github.com/saikumar716/saikumar716/blob/master/readme.gif" />
 
 ## 🔧 Technical Profile Summary
 - Python, Scala, Java, SQL
@@ -34,6 +34,9 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikumar716&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sai's GitHub Stats" />
 </a>
 
+💻 I’m currently working on cloud migration project in healthcare domain
+🌱 I’m currently learning python for data engineering and many cloud services in aws
+ 
 ##  Reach me on                                            
 <p align='center'>
 <a href="https://twitter.com/saicrystalhear"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -41,4 +44,12 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 <a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
+Here are some ideas to get you started:
 
+ 
+* 👯 I’m looking to collaborate on ...
+* 🤔 I’m looking for help with ...
+* 💬 Ask me about ...
+* 📫 How to reach me: ...
+* 😄 Pronouns: ...
+* ⚡ Fun fact: ...
