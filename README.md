@@ -1,11 +1,9 @@
 <h1 align='center'> Hi there! :wave:</h1>
 <p align='center'>
-I'm Sai.
+I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche edge technologies and find insights of data.
 </p>
 
 ### reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="15" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
-[![Gmail Badge](https://img.shields.io/badge/-danieltsutomu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieltsutomu@gmail.com)](mailto:danieltsutomu@gmail.com)
-
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
 
 ### Technical Profile Summary
@@ -24,3 +22,4 @@ I'm Sai.
 <a href="https://instagram.com/saikumar716"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saikumar-andhavarapu/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+[![Gmail Badge](https://img.shields.io/badge/-andhavarapusaikumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andhavarapusaikumar@gmail.com)](mailto:andhavarapusaikumar@gmail.com)
