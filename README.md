@@ -7,7 +7,7 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 
 
 ## 🔧 Technical Profile Summary
-* Python, Scala, SQL
+* Python, Scala, SQL, Cobol
 * PostgreSQL, Oracle,Elastic search
 * Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
 * AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
