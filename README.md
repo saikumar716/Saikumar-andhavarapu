@@ -4,10 +4,10 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 </p>
 
 ### reach me on 
-### [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="15" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
+### [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="15" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"> 
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
+                                                                                                                                                            [![Gmail Badge](https://img.shields.io/badge/-andhavarapusaikumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andhavarapusaikumar@gmail.com)](mailto:andhavarapusaikumar@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-andhavarapusaikumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andhavarapusaikumar@gmail.com)](mailto:andhavarapusaikumar@gmail.com)
 
 ### Technical Profile Summary
 - Python, Scala, Java, SQL
