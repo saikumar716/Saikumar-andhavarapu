@@ -6,9 +6,9 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 ### reach me on [LinkedIn](https://www.linkedin.com/in/saikumar716/)<img height="15" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">
 [![HitCount](http://hits.dwyl.com/saikumar716/saikumar716.svg)](http://hits.dwyl.com/saikumar716/saikumar-andhavarapu)
 
-### mail me on 
+<p align='right'>
 [![Gmail Badge](https://img.shields.io/badge/-andhavarapusaikumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andhavarapusaikumar@gmail.com)](mailto:andhavarapusaikumar@gmail.com)
-
+</p>
 
 ### Technical Profile Summary
 - Python, Scala, Java, SQL
