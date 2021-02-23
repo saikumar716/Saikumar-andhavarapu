@@ -7,15 +7,16 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 
 
 ## 🔧 Technical Profile Summary
-* Python, Scala, SQL, Cobol
+* AWZ Certified developer associate. 
+* Python, Scala, SQL
 * PostgreSQL, Oracle,Elastic search
 * Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
 * AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
-* Jupyter notebook, Sagemaker Notebook
+* Azure databricks notebook, Jupyter notebook, Sagemaker Notebook
 *  Kibana Dashboard, Postman
 * Data migration testing, System testing, BDD Testing Framwork
 * 💻 I’m currently working on cloud migration project in healthcare domain
-* 🌱 I’m currently learning python for data engineering and many cloud services in aws
+* 🌱 I’m currently learning many cloud services in aws and AZURE 
 * ⚡ Special Talent: Beat Boxing
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
