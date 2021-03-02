@@ -7,10 +7,11 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 
 
 ## 🔧 Technical Profile Summary
-* AWZ Certified developer associate. 
+* AWS Certified developer associate. 
 * Python, Scala, SQL
-* PostgreSQL, Oracle,Elastic search
-* Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira
+* PostgreSQL, Oracle, Elastic search
+* Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira, AZURE DEVOPS
+* Airflow workflow engine
 * AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
 * Azure databricks notebook, Jupyter notebook, Sagemaker Notebook
 *  Kibana Dashboard, Postman
