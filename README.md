@@ -9,14 +9,14 @@ I'm Sai. I'm a Data engineer 👨‍💻 who is passionate about  learning niche
 ## 🔧 Technical Profile Summary
 * AWS Certified developer associate. 
 * Python, Scala, SQL
-* PostgreSQL, Oracle, Elastic search
+* PostgreSQL, Oracle, Elastic search, Snowflake
 * Gitlab(CI/CD), Jenkins(CI/CD), GitHub, Jira, AZURE DEVOPS
 * Airflow workflow engine
 * AWS Lambda, s3, EMR, Quicksight, AWS Glue, Redshift, Elastic search, Dynamo DB
 * Azure databricks notebook, Jupyter notebook, Sagemaker Notebook
 *  Kibana Dashboard, Postman
-* Data migration testing, System testing, BDD Testing Framwork
-* 💻 I’m currently working on cloud migration project in healthcare domain
+* Data migration testing, System testing, Data quality checks
+* 💻 I’m currently working on AWS cloud project in retail domain
 * 🌱 I’m currently learning many cloud services in aws and AZURE 
 * ⚡ Special Talent: Beat Boxing
 <p>
